@@ -1,4 +1,4 @@
-# ?? Adapter Design Pattern - First Example
+# Adapter Design Pattern - First Example
 
 ## Hello! ??
 
